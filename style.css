@@ -732,7 +732,7 @@ img{
     }
 
     .work__container{
-        grid-template-columns: repeat(2, 540px);
+        grid-template-columns: 1fr;
         gap: 2.5rem;
     }
 
